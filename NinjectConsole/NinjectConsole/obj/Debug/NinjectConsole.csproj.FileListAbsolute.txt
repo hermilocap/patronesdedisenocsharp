@@ -1,0 +1,10 @@
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\bin\Debug\NinjectConsole.exe.config
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\bin\Debug\NinjectConsole.exe
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\bin\Debug\NinjectConsole.pdb
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\obj\Debug\NinjectConsole.csprojAssemblyReference.cache
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\obj\Debug\NinjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\obj\Debug\NinjectConsole.exe
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\obj\Debug\NinjectConsole.pdb
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\bin\Debug\Ninject.dll
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\bin\Debug\Ninject.xml
+C:\Users\hermilocap\source\repos\NinjectConsole\NinjectConsole\obj\Debug\NinjectConsole.csproj.CopyComplete
