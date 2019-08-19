@@ -1,0 +1,11 @@
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\bin\Debug\ConsoleAppAutofact.exe.config
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\bin\Debug\ConsoleAppAutofact.exe
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\bin\Debug\ConsoleAppAutofact.pdb
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\bin\Debug\Autofac.dll
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\bin\Debug\Autofac.pdb
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\bin\Debug\Autofac.xml
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\obj\Debug\ConsoleAppAutofact.csprojAssemblyReference.cache
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\obj\Debug\ConsoleAppAutofact.csproj.CoreCompileInputs.cache
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\obj\Debug\ConsoleAppAutofact.csproj.CopyComplete
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\obj\Debug\ConsoleAppAutofact.exe
+C:\Users\hermilocap\source\repos\ConsoleAppAutofact\ConsoleAppAutofact\obj\Debug\ConsoleAppAutofact.pdb
